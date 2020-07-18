@@ -1,0 +1,14 @@
+afinn
+textblob
+nltk
+rake_nltk
+spacy
+numpy
+keras
+tkinter
+PIL
+matplotlib
+tensorflow
+tweepy
+vaderSentiment
+pywsd
