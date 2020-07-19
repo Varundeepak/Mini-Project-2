@@ -10,6 +10,14 @@ Meme Sentiment Analysis CNN Model : https://drive.google.com/file/d/1dVURVMEB3qO
 
 If you read MemeTest.ipynb, you'll see that this file will generate the .h5 file. But DO NOT attempt to run it as it won't work for you. The Dataset to train the CNN Model is with me and so you won't be able to run MemeTest.ipynb So download the .h5 file from the link.
 
+To run Twitter Sentiment Analysis as a Standalone, run
+
+python miniproject.py
+
+To run Meme Sentiment Analysis (you'll need the CNN Model, you can download it from the link above), run
+
+python meme.py
+
 server.py can be hosted on a Cloud or a Server to send Requests to the code. It will return a Response. It uses Flask to work as a Server. server.py is the Server code for the android application.
 
 Twitter Sentiment Analysis Android Application APK : https://drive.google.com/file/d/11pjIc6xFFHfg_am-5R56ZKs71Dwb_fwN/view?usp=sharing or you can find the APK in this Repos itself.
