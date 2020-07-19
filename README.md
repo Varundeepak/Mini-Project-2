@@ -1,5 +1,7 @@
 # Mini Project 2 - Determining the Polarity of Tweets
 
+Go to this repos to find the code for Android Application : https://github.com/Varundeepak/TwitterSentimentAnalysisAndroidApplication
+
 All the files are required to run the full code. And as for now, I have not uploaded my CNN Model saved as a .h5 file because it is 45MB, and I could not upload a file more than 25 MB. There is room for much more improvements, so this project would be continued. Clone this repo or download it and run using 
 
 python mainpage.py 
@@ -22,4 +24,3 @@ server.py can be hosted on a Cloud or a Server to send Requests to the code. It 
 
 Twitter Sentiment Analysis Android Application APK : https://drive.google.com/file/d/11pjIc6xFFHfg_am-5R56ZKs71Dwb_fwN/view?usp=sharing or you can find the APK in this Repos itself.
 
-Go to this repos to find the code for Android Application : https://github.com/Varundeepak/TwitterSentimentAnalysisAndroidApplication
