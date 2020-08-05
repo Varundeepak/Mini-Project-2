@@ -22,5 +22,4 @@ python meme.py
 
 server.py can be hosted on a Cloud or a Server to send Requests to the code. It will return a Response. It uses Flask to work as a Server. server.py is the Server code for the android application.
 
-Twitter Sentiment Analysis Android Application APK : https://drive.google.com/file/d/11pjIc6xFFHfg_am-5R56ZKs71Dwb_fwN/view?usp=sharing or you can find the APK in this Repos itself.
 
